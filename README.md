@@ -13,3 +13,6 @@ The snippet to create an ordinal number was found online [here](http://ecommerce
 # install
 
 `npm install git+https://github.com/gabrielflorit/ordinal`
+
+# credits
+This is a fork of [https://github.com/jdpedrie/angularjs-ordinal-filter](https://github.com/jdpedrie/angularjs-ordinal-filter).
