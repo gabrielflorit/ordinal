@@ -26,4 +26,4 @@ This is a fork of [https://github.com/jdpedrie/angularjs-ordinal-filter](https:/
 
 # License
 
-MIT © [Gabriel Florit](http://gabrielflor.it)
+MIT © [Gabriel Florit](http://gabrielflorit.github.io/)
