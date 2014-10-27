@@ -1,0 +1,16 @@
+{
+  "name": "ordinal",
+  "version": "0.0.0",
+  "description": "Convert numbers to ordinals.",
+  "main": "ordinal.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabrielflorit/ordinal.git"
+  },
+  "author": "Gabriel Florit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielflorit/ordinal/issues"
+  },
+  "homepage": "https://github.com/gabrielflorit/ordinal"
+}
